@@ -1,7 +1,7 @@
 # React And Express
 
 The code in this repository is based on the
-[https://www.youtube.com/watch?v=8bNlffXEcC0](Create React App with an Express Backend)
+[Create React App with an Express Backend](https://www.youtube.com/watch?v=8bNlffXEcC0)
 video.
 
 Initially create with the following:
